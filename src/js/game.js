@@ -6,6 +6,7 @@ export default class Game {
     }
   }
   
+
   export class GameSavingData {
   }
   
